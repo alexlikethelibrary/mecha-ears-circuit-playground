@@ -11,7 +11,8 @@ To download the full repo click on the green "<> Code" button then click on "Dow
 
 Navigation and Individual Files:
 1. Click on the _folder_ name to open up the folder (will light up blue while hovering). This will open up the files tab view
-2. Click on the _file_ name to open up the file (will light up blue while hovering). Sometimes github will automatically display the file's code, if not this does not always mean the file is empty.
+2. Click on the _file_ name to open up the file (will light up blue while hovering). Sometimes github will automatically display the file's code, if not the file may be an incompatible type and not empty. This will show the "View Raw" option, which if clicked on will download the file.
+![Incompatible File Type](incompatible_filetype.png)
 3. Use the download button to download the file to your computer
 ![Download Button](readme_images/download_button.png)
 4. You can also navigate through files using files tab that pops up on the left of the screen
